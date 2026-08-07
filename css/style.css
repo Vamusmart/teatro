@@ -495,7 +495,7 @@ a.active {
   text-align: left;
   background-color: rgba(0, 0, 0, 0.55); /* più contrasto */
   backdrop-filter: blur(4px); /* effetto moderno (opzionale) */
-  top: calc(var(--nav-height) + 15rem);
+  top: calc(var(--nav-height) + 45rem);
   transform: translateY(-50%);
   text-shadow: 0 1px 3px rgba(40, 181, 127, 0.8);
 
